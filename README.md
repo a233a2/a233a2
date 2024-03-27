@@ -4,5 +4,5 @@
 - 📫 How to reach me
 - 📧 "sunjiyi666@foxmail.com" "sunjiyi666@qq.com"
 
-do code just for living better;
+
 🎂🥚🍓🍊🦐🥣🍎🍒🍑🍜🍲🥬🍗🍐🍠🍉🍦🍅🌽🍌🥔🍕🥦🥕🍇🍣🥭🍍🥝🍆🥩🥜
