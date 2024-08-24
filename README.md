@@ -4,6 +4,9 @@
 - 📫 How to reach me
 - 📧 "sunjiyi666@foxmail.com" "sunjiyi666@qq.com" "space.bilibili.com/37767944"
   
-![sunjiyi's github stats](https://github-readme-stats.vercel.app/api?username=a233a2&show_icons=true&theme=prussian&count_private=true)
+![sunjiyi's github stats](https://github-readme-stats.vercel.app/api?username=a233a2&show_icons=true&theme=prussian&count_private=true)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a233a2&layout=compact)  
+
 
 🎂🥚🍓🍊🦐🥣🍎🍒🍑🍜🍲🥬🍗🍐🍠🍉🍦🍅🌽🍌🥔🍕🥦🥕🍇🍣🥭🍍🥝🍆🥩🥜
