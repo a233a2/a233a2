@@ -6,7 +6,7 @@
   
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=babaohuang/geminiprochat&type=Timeline)](https://star-history.com/#babaohuang/geminiprochat&a233a2/a233a2&Timeline)  
+[![Star History Chart](https://api.star-history.com/svg?repos=babaohuang/geminiprochat&type=Timeline)]([https://star-history.com/#babaohuang/geminiprochat&a233a2/a233a2&Timeline](https://star-history.com/#a233a2/a233a2&Date))  
 
 
 🎂🥚🍓🍊🦐🥣🍎🍒🍑🍜🍲🥬🍗🍐🍠🍉🍦🍅🌽🍌🥔🍕🥦🥕🍇🍣🥭🍍🥝🍆🥩🥜
