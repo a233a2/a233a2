@@ -4,9 +4,6 @@
 - 📫 How to reach me
 - 📧 "sunjiyi666@foxmail.com" "sunjiyi666@qq.com" "space.bilibili.com/37767944"
   
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg)](https://star-history.com/#a233a2/a233a2&Date)  
-
+![sunjiyi's github stats](https://github-readme-stats.vercel.app/api?username=a233a2&show_icons=true&theme=prussian&count_private=true)
 
 🎂🥚🍓🍊🦐🥣🍎🍒🍑🍜🍲🥬🍗🍐🍠🍉🍦🍅🌽🍌🥔🍕🥦🥕🍇🍣🥭🍍🥝🍆🥩🥜
