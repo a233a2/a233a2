@@ -2,7 +2,7 @@
 - 👀 I’m interested in C.C++✨
 - 🌱 I’m currently learning C/C++✨
 - 📫 How to reach me
-- 📧 "sunjiyi666@foxmail.com" "sunjiyi666@qq.com" "space.bilibili.com/37767944"
+- 📧 "sunjiyi666@foxmail.com" "sunjiyi666@qq.com" "www.space.bilibili.com/37767944"
 - MyBlog_Website：https://a233a2.github.io/Blog
 - 
   
