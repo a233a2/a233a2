@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @a233a2✨
+- ![HULI](huli.gif)    
 - 👀 I’m interested in C.C++✨
 - 🌱 I’m currently learning C/C++✨
 - 📫 How to reach me
