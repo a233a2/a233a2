@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @a233a2✨
-- ![HULI](huli.gif)    
+<img src="huli.gif" alt="动画演示" width="120" height="auto">       
 - 👀 I’m interested in C.C++✨
 - 🌱 I’m currently learning C/C++✨
 - 📫 How to reach me
